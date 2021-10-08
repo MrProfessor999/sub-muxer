@@ -7,10 +7,10 @@ class Chat:
 
 /help for more details..
 
-Credits :- @mohdsabahat
+Credits :- @N_A_V_I_P_A_V_I
     """
 
-    HELP_USER = "??"
+
 
     HELP_TEXT ="""<b>Welcome to the Help Menu</b>
 
