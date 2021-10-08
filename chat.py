@@ -17,15 +17,15 @@ Credits :- @N_A_V_I_P_A_V_I
 1.) Send a Video file or url.
 2.) Send a subtitle file (ass or srt)
 3.) Choose you desired type of muxing!
-
+@BOTS_GARAGE
 To give custom name to file send it with url seperated with |
 <i>url|custom_name.mp4</i>
 
 <b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
 
-<a href="https://github.com/mohdsabahat/sub-muxer">Repo URL</a>"""
+<a href="https://t.me/BOTS_GARAGE">UPDATES CHANNEL</a>"""
 
-    NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner!"
+    NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner!@BOTS_GARAGE"
     DOWNLOAD_SUCCESS = """File downloaded successfully!
 
 Time taken : {} seconds."""
