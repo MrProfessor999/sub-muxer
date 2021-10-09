@@ -1,10 +1,8 @@
 
 class Chat:
 
-    START_TEXT ="""Hi
-"https://telegra.ph/file/e9dda2769fad138590ee3.mp4"
-This is a subtitle adder bot you can add subtitles to any file permanantly
-Telegram
+    START_TEXT ="""This is a subtitle adder bot you can add subtitles to any file permanantly
+
 <b>Send me a  file to begin</b>
 
 /help for more details..
