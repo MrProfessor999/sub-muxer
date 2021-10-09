@@ -1,7 +1,8 @@
 
 class Chat:
 
-    START_TEXT = """This is a Telegram Bot to Mux subtitle into a video
+    START_TEXT = """[.](https://telegra.ph/file/cdabe48da0079e546717f.jpg)
+    This is a Telegram Bot to Mux subtitle into a video
 
 <b>Send me a Telegram file to begin</b>
 
