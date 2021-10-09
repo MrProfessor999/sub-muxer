@@ -1,9 +1,9 @@
 
 class Chat:
 
-    START_TEXT reply_video(
-video="https://telegra.ph/file/e9dda2769fad138590ee3.mp4"
-"""This is a subtitle adder bot you can add subtitles to any file permanantly
+    START_TEXT """
+"https://telegra.ph/file/e9dda2769fad138590ee3.mp4"
+This is a subtitle adder bot you can add subtitles to any file permanantly
 Telegram
 <b>Send me a  file to begin</b>
 
