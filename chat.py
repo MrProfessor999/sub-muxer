@@ -10,26 +10,23 @@ class Chat:
 Credits :- @N_A_V_I_P_A_V_I
     """
 
-         
+  await message.reply_text(
+            START_MSG,
+            parse_mode="Markdown",
+            disable_web_page_preview=True,
+            reply_markup=InlineKeyboardMarkup(
+                [[
+                InlineKeyboardButton("HELPER", url="https//t.me/bandu_of_tg),
+                InlineKeyboardButton("DEVLOPER", url="https://t.me/N_A_V_I_P_A_V_I")
+                ],[
+                InlineKeyboardButton("SUPPORT 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/BOTS_ASK"),
+                InlineKeyboardButton("UPDATES CHANNEL", url="https://t.me/BOTS_GARAGE")
+                ]]
+            )
+        )
+        StopPropagation       
                     
-                    [InlineKeyboardButton("HELPER:@BANDU", url="https//t.me/bandu_of_tg")],
-
-                    [InlineKeyboardButton("SUPPORT GROUP:@BOTS_ASK", url="htpps//t.me/BOTS_ASK")]
-
-                    [InlineKeyboardButton("UPDATES CHANNEL:@BOTS_GARAGE", url="https//t.me/BOTS_GARAGE")]
-
-                    [InlineKeyboardButton("Developer: @꧁࿗༒⚔𝐌𝐫 ℙℝ𝕆𝔽𝔼𝕊𝕆ℝ⚔༒࿗꧂", url="https://t.me/N_A_V_I_P_A_V_I")]
-
-                ]
-
-                    
-                     
-
-                    
-
-                    
-
-
+       
 
 
     HELP_TEXT ="""<b>Welcome to the Help Menu</b>
