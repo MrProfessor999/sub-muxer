@@ -11,6 +11,26 @@ Telegram
 
 Credits :- @N_A_V_I_P_A_V_I
     """
+SUB-MUXERBot = Client(session_name=Config.SESSION_NAME, api_id=Config.API_ID, api_hash=Config.API_HASH, bot_token=Config.BOT_TOKEN)
+
+DEFAULT_SEARCH_MARKUP = [
+                    [InlineKeyboardButton("HELPER:@BANDU", url="https//t.me/bandu_of_tg")],
+
+                    [InlineKeyboardButton("SUPPORT GROUP:@BOTS_ASK", url="htpps//t.me/BOTS_ASK")]
+
+                    [InlineKeyboardButton("UPDATES CHANNEL:@BOTS_GARAGE", url="https//t.me/BOTS_GARAGE")]
+
+                    [InlineKeyboardButton("Developer: @꧁࿗༒⚔𝐌𝐫 ℙℝ𝕆𝔽𝔼𝕊𝕆ℝ⚔༒࿗꧂", url="https://t.me/N_A_V_I_P_A_V_I")]
+
+                ]
+
+                    
+                     
+
+                    
+
+                    
+
 
 
 
