@@ -2,7 +2,7 @@
 class Chat:
 
     START_TEXT = """[](https://telegra.ph/file/cdabe48da0079e546717f.jpg)
-    This is a Telegram Bot to Mux subtitle into a video
+    This is a subtitle adder bot you can add subtitles to any file permanantly
 
 <b>Send me a Telegram file to begin</b>
 
