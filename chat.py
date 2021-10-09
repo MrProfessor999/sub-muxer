@@ -1,7 +1,7 @@
 
 class Chat:
 
-    START_TEXT """
+    START_TEXT ="""Hi
 "https://telegra.ph/file/e9dda2769fad138590ee3.mp4"
 This is a subtitle adder bot you can add subtitles to any file permanantly
 Telegram
