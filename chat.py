@@ -10,13 +10,13 @@ class Chat:
 Credits :- @N_A_V_I_P_A_V_I
     """
 
-            START_TEXT,
-            parse_mode="Markdown",
-            disable_web_page_preview=True,
-            reply_markup=InlineKeyboardMarkup(
-                [[
-                InlineKeyboardButton("HELPER", url="https//t.me/bandu_of_tg),
-CHANNEL", url="https://t.me/BOTS_GARAGE")
+            
+            
+            
+            
+               
+               
+
                 
            
         
