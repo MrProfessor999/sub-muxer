@@ -10,8 +10,7 @@ class Chat:
 Credits :- @N_A_V_I_P_A_V_I
     """
 
-  await message.reply_text(
-            START_MSG,
+            START_TEXT,
             parse_mode="Markdown",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -24,7 +23,7 @@ Credits :- @N_A_V_I_P_A_V_I
                 ]]
             )
         )
-        StopPropagation       
+          
                     
        
 
