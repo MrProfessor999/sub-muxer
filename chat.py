@@ -16,13 +16,10 @@ Credits :- @N_A_V_I_P_A_V_I
             reply_markup=InlineKeyboardMarkup(
                 [[
                 InlineKeyboardButton("HELPER", url="https//t.me/bandu_of_tg),
-                InlineKeyboardButton("DEVLOPER", url="https://t.me/N_A_V_I_P_A_V_I")
-                ],[
-                InlineKeyboardButton("SUPPORT 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/BOTS_ASK"),
-                InlineKeyboardButton("UPDATES CHANNEL", url="https://t.me/BOTS_GARAGE")
-                ]]
-            )
-        )
+CHANNEL", url="https://t.me/BOTS_GARAGE")
+                
+           
+        
           
                     
        
